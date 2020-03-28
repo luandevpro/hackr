@@ -1,0 +1,31 @@
+.header {
+    height: 50px;
+    line-height: 50px;
+    background-color: powderblue;
+}
+
+.icon-menu {
+    width: 17px;
+    height: 17px;
+}
+
+.input-search {
+    height: 23px;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+}
+
+.input-search:focus {
+    outline: none;
+    border: 1px solid #007aff;
+}
+
+.icon-search {
+    top: 35%;
+    left: 20px;
+}
+
+.icon-menu-flag {
+    width: 20px !important;
+    height: 20px !important;
+}
